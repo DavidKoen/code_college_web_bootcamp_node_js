@@ -1,0 +1,14 @@
+{
+  "name": "lesson_4_building_a_simple_web_server",
+  "version": "1.0.0",
+  "description": "Simple server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Koen",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.3.0"
+  }
+}
