@@ -1,0 +1,20 @@
+{
+  "name": "blog_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david_koen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.11.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
